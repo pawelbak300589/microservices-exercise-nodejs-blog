@@ -13,7 +13,7 @@ spec:
         app: posts
     spec:
       containers:
-        - name: post
+        - name: posts
           image: pawelbak89/posts
 ---
 apiVersion: v1
